@@ -1,6 +1,6 @@
 # LangGraph Recruitment Matching Agent
 
-A submission-oriented integration of the Milestone 1 filesystem tools and Milestone 2 resume RAG/matching system, orchestrated with LangGraph.
+A submission-oriented with respect integration of the Milestone 1 filesystem tools and Milestone 2 resume RAG/matching system, orchestrated with LangGraph.
 
 ## Assignment mapping
 
