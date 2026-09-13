@@ -1,0 +1,29 @@
+Fatima Rodriguez
+Software Engineer | San Francisco, CA
+Email: fatima.rodriguez5@email.com | Phone: +1-939-936-5315
+
+SUMMARY
+Software Engineer with 10 years of experience specializing in Python, Django, PostgreSQL. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, Docker, Java, AWS, GraphQL, MongoDB
+
+EXPERIENCE
+Software Engineer, Massive Dynamic (2023-2026)
+- Built and maintained systems using REST APIs, PostgreSQL, GraphQL, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 34%.
+
+Senior Backend Developer, Aperture Labs (2020-2023)
+- Built and maintained systems using Python, Java, REST APIs, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 10%.
+
+Software Engineer, Stark Industries Software (2016-2020)
+- Built and maintained systems using REST APIs, Python, Django, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 38%.
+- Mentored 1 junior engineers and led code reviews to improve overall code quality.
+
+EDUCATION
+M.S. in Computer Science, Purdue University, 2015
+
+CERTIFICATIONS
+TensorFlow Developer Certificate

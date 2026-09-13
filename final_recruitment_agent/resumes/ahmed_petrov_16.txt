@@ -1,0 +1,29 @@
+Ahmed Petrov
+Data Analyst | New York, NY
+Email: ahmed.petrov16@email.com | Phone: +1-594-790-4114
+
+SUMMARY
+Data Analyst with 8 years of experience specializing in Python, SQL, Statistics. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Python, SQL, Statistics, Pandas, Data Visualization, R, Power BI, NumPy, scikit-learn, Experiment Design
+
+EXPERIENCE
+Data Analyst, Cyberdyne Cloud (2024-2026)
+- Built and maintained systems using Pandas, R, Power BI, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 12%.
+- Mentored 3 junior engineers and led code reviews to improve overall code quality.
+
+Senior Data Scientist, Massive Dynamic (2021-2024)
+- Built and maintained systems using SQL, Data Visualization, scikit-learn, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 31%.
+
+Data Analyst, Wayne Digital (2018-2021)
+- Built and maintained systems using Data Visualization, scikit-learn, Statistics, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 16%.
+
+EDUCATION
+M.S. in Artificial Intelligence, MIT, 2018
+
+CERTIFICATIONS
+PMP

@@ -1,0 +1,673 @@
+[
+  {
+    "candidate_name": "James Patel",
+    "file": "james_patel_0.txt",
+    "role_category": "Software Engineer (Backend)",
+    "years_experience": 1,
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "REST APIs",
+      "Docker",
+      "Kafka",
+      "Redis",
+      "AWS",
+      "Java"
+    ],
+    "education": "B.S. in Computer Science, Carnegie Mellon University, 2025"
+  },
+  {
+    "candidate_name": "Maria Johnson",
+    "file": "maria_johnson_1.txt",
+    "role_category": "Software Engineer (Backend)",
+    "years_experience": 2,
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "REST APIs",
+      "Docker",
+      "Redis",
+      "CI/CD",
+      "Microservices"
+    ],
+    "education": "M.S. in Computer Science, UC Berkeley, 2023"
+  },
+  {
+    "candidate_name": "David Muller",
+    "file": "david_muller_2.txt",
+    "role_category": "Software Engineer (Backend)",
+    "years_experience": 4,
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "REST APIs",
+      "Docker",
+      "Java",
+      "GraphQL",
+      "Celery"
+    ],
+    "education": "M.S. in Data Science, University of Texas at Austin, 2021"
+  },
+  {
+    "candidate_name": "Priya Connor",
+    "file": "priya_connor_3.txt",
+    "role_category": "Software Engineer (Backend)",
+    "years_experience": 6,
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "REST APIs",
+      "Docker",
+      "Java",
+      "Kafka",
+      "Redis",
+      "Go"
+    ],
+    "education": "B.Tech in Information Technology, Indian Institute of Technology Delhi, 2019"
+  },
+  {
+    "candidate_name": "Wei Garcia",
+    "file": "wei_garcia_4.txt",
+    "role_category": "Software Engineer (Backend)",
+    "years_experience": 8,
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "REST APIs",
+      "Docker",
+      "Microservices",
+      "Kafka",
+      "Redis",
+      "Java",
+      "Go",
+      "Kubernetes"
+    ],
+    "education": "B.A. in Statistics, University of Michigan, 2017"
+  },
+  {
+    "candidate_name": "Fatima Rodriguez",
+    "file": "fatima_rodriguez_5.txt",
+    "role_category": "Software Engineer (Backend)",
+    "years_experience": 10,
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "REST APIs",
+      "Docker",
+      "Java",
+      "AWS",
+      "GraphQL",
+      "MongoDB"
+    ],
+    "education": "M.S. in Computer Science, Purdue University, 2015"
+  },
+  {
+    "candidate_name": "John Lee",
+    "file": "john_lee_6.txt",
+    "role_category": "Machine Learning Engineer",
+    "years_experience": 1,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Scikit-learn",
+      "Pandas",
+      "Vector Databases",
+      "Feature Engineering",
+      "Transformers",
+      "MLOps",
+      "Spark"
+    ],
+    "education": "M.S. in Computer Science, University of Toronto, 2025"
+  },
+  {
+    "candidate_name": "Elena Sharma",
+    "file": "elena_sharma_7.txt",
+    "role_category": "Machine Learning Engineer",
+    "years_experience": 2,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Scikit-learn",
+      "Pandas",
+      "NLP",
+      "A/B Testing",
+      "TensorFlow"
+    ],
+    "education": "B.Tech in Information Technology, University of Toronto, 2024"
+  },
+  {
+    "candidate_name": "Carlos Park",
+    "file": "carlos_park_8.txt",
+    "role_category": "Machine Learning Engineer",
+    "years_experience": 4,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Scikit-learn",
+      "Pandas",
+      "NLP",
+      "Spark",
+      "Transformers",
+      "Deep Learning"
+    ],
+    "education": "M.S. in Computer Science, University of Toronto, 2022"
+  },
+  {
+    "candidate_name": "Aisha Doe",
+    "file": "aisha_doe_9.txt",
+    "role_category": "Machine Learning Engineer",
+    "years_experience": 6,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Scikit-learn",
+      "Pandas",
+      "MLOps",
+      "NLP",
+      "LangChain",
+      "Vector Databases",
+      "A/B Testing",
+      "TensorFlow"
+    ],
+    "education": "M.S. in Data Science, National University of Singapore, 2019"
+  },
+  {
+    "candidate_name": "Michael Tanaka",
+    "file": "michael_tanaka_10.txt",
+    "role_category": "Machine Learning Engineer",
+    "years_experience": 8,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Scikit-learn",
+      "Pandas",
+      "Spark",
+      "Deep Learning",
+      "TensorFlow"
+    ],
+    "education": "B.A. in Statistics, Delhi Technological University, 2017"
+  },
+  {
+    "candidate_name": "Sofia Taylor",
+    "file": "sofia_taylor_11.txt",
+    "role_category": "Machine Learning Engineer",
+    "years_experience": 10,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Scikit-learn",
+      "Pandas",
+      "A/B Testing",
+      "Spark",
+      "AWS SageMaker",
+      "LangChain"
+    ],
+    "education": "B.S. in Computer Science, MIT, 2015"
+  },
+  {
+    "candidate_name": "Daniel Wilson",
+    "file": "daniel_wilson_12.txt",
+    "role_category": "Data Scientist",
+    "years_experience": 1,
+    "skills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Pandas",
+      "Data Visualization",
+      "scikit-learn",
+      "Machine Learning",
+      "Hypothesis Testing",
+      "Tableau",
+      "Excel"
+    ],
+    "education": "M.S. in Computer Science, MIT, 2024"
+  },
+  {
+    "candidate_name": "Yuki Wang",
+    "file": "yuki_wang_13.txt",
+    "role_category": "Data Scientist",
+    "years_experience": 2,
+    "skills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Pandas",
+      "Data Visualization",
+      "Excel",
+      "Experiment Design",
+      "Power BI",
+      "scikit-learn"
+    ],
+    "education": "B.S. in Computer Science, Cornell University, 2023"
+  },
+  {
+    "candidate_name": "Omar Rossi",
+    "file": "omar_rossi_14.txt",
+    "role_category": "Data Scientist",
+    "years_experience": 4,
+    "skills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Pandas",
+      "Data Visualization",
+      "Hypothesis Testing",
+      "Machine Learning",
+      "Experiment Design"
+    ],
+    "education": "B.Tech in Computer Science, Purdue University, 2021"
+  },
+  {
+    "candidate_name": "Grace Brown",
+    "file": "grace_brown_15.txt",
+    "role_category": "Data Scientist",
+    "years_experience": 6,
+    "skills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Pandas",
+      "Data Visualization",
+      "R",
+      "Excel",
+      "Machine Learning",
+      "Tableau",
+      "Experiment Design",
+      "A/B Testing"
+    ],
+    "education": "M.S. in Artificial Intelligence, UC Berkeley, 2019"
+  },
+  {
+    "candidate_name": "Ahmed Petrov",
+    "file": "ahmed_petrov_16.txt",
+    "role_category": "Data Scientist",
+    "years_experience": 8,
+    "skills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Pandas",
+      "Data Visualization",
+      "R",
+      "Power BI",
+      "NumPy",
+      "scikit-learn",
+      "Experiment Design"
+    ],
+    "education": "M.S. in Artificial Intelligence, MIT, 2018"
+  },
+  {
+    "candidate_name": "Laura Chen",
+    "file": "laura_chen_17.txt",
+    "role_category": "Data Scientist",
+    "years_experience": 10,
+    "skills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Pandas",
+      "Data Visualization",
+      "Power BI",
+      "Hypothesis Testing",
+      "Excel",
+      "Machine Learning"
+    ],
+    "education": "B.Tech in Information Technology, University of Waterloo, 2016"
+  },
+  {
+    "candidate_name": "Kevin Ahmed",
+    "file": "kevin_ahmed_18.txt",
+    "role_category": "Frontend Engineer",
+    "years_experience": 1,
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "Accessibility",
+      "Tailwind CSS",
+      "Webpack",
+      "Jest",
+      "Node.js",
+      "Redux"
+    ],
+    "education": "B.S. in Computer Science, Carnegie Mellon University, 2025"
+  },
+  {
+    "candidate_name": "Nina Ali",
+    "file": "nina_ali_19.txt",
+    "role_category": "Frontend Engineer",
+    "years_experience": 2,
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "GraphQL",
+      "Figma",
+      "Accessibility",
+      "Node.js",
+      "Vue.js"
+    ],
+    "education": "B.Tech in Information Technology, MIT, 2024"
+  },
+  {
+    "candidate_name": "Robert Bianchi",
+    "file": "robert_bianchi_20.txt",
+    "role_category": "Frontend Engineer",
+    "years_experience": 4,
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "Figma",
+      "Next.js",
+      "Webpack",
+      "Node.js",
+      "Accessibility"
+    ],
+    "education": "B.S. in Computer Science, Cornell University, 2021"
+  },
+  {
+    "candidate_name": "Chen Smith",
+    "file": "chen_smith_21.txt",
+    "role_category": "Frontend Engineer",
+    "years_experience": 6,
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "GraphQL",
+      "Tailwind CSS",
+      "Vue.js",
+      "Figma"
+    ],
+    "education": "B.Tech in Information Technology, Indian Institute of Technology Delhi, 2020"
+  },
+  {
+    "candidate_name": "Anjali Petrova",
+    "file": "anjali_petrova_22.txt",
+    "role_category": "Frontend Engineer",
+    "years_experience": 8,
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "Vue.js",
+      "Accessibility",
+      "Node.js",
+      "Figma",
+      "Redux",
+      "Tailwind CSS"
+    ],
+    "education": "B.Tech in Computer Science, University of Waterloo, 2018"
+  },
+  {
+    "candidate_name": "Marco Hassan",
+    "file": "marco_hassan_23.txt",
+    "role_category": "Frontend Engineer",
+    "years_experience": 10,
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "Accessibility",
+      "Tailwind CSS",
+      "Next.js",
+      "Vue.js",
+      "Jest",
+      "GraphQL"
+    ],
+    "education": "B.Tech in Information Technology, Purdue University, 2016"
+  },
+  {
+    "candidate_name": "Sarah Zhang",
+    "file": "sarah_zhang_24.txt",
+    "role_category": "DevOps / Cloud Engineer",
+    "years_experience": 1,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "GCP",
+      "Azure",
+      "Prometheus",
+      "Linux",
+      "Ansible",
+      "Jenkins"
+    ],
+    "education": "B.A. in Statistics, Stanford University, 2024"
+  },
+  {
+    "candidate_name": "Ivan Iyer",
+    "file": "ivan_iyer_25.txt",
+    "role_category": "DevOps / Cloud Engineer",
+    "years_experience": 2,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Python",
+      "Prometheus",
+      "Jenkins",
+      "Helm",
+      "Ansible"
+    ],
+    "education": "B.Tech in Information Technology, University of Texas at Austin, 2024"
+  },
+  {
+    "candidate_name": "Leila Khan",
+    "file": "leila_khan_26.txt",
+    "role_category": "DevOps / Cloud Engineer",
+    "years_experience": 4,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "GCP",
+      "Helm",
+      "Grafana",
+      "Bash",
+      "Python"
+    ],
+    "education": "B.S. in Electrical Engineering, University of Toronto, 2021"
+  },
+  {
+    "candidate_name": "Tom Kim",
+    "file": "tom_kim_27.txt",
+    "role_category": "DevOps / Cloud Engineer",
+    "years_experience": 6,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Prometheus",
+      "Bash",
+      "Grafana",
+      "Ansible"
+    ],
+    "education": "M.S. in Computer Science, Cornell University, 2020"
+  },
+  {
+    "candidate_name": "Meera Ivanova",
+    "file": "meera_ivanova_28.txt",
+    "role_category": "DevOps / Cloud Engineer",
+    "years_experience": 8,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Linux",
+      "Prometheus",
+      "Ansible",
+      "GCP"
+    ],
+    "education": "M.S. in Computer Science, Indian Institute of Technology Delhi, 2018"
+  },
+  {
+    "candidate_name": "Jake Hussain",
+    "file": "jake_hussain_29.txt",
+    "role_category": "DevOps / Cloud Engineer",
+    "years_experience": 10,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Prometheus",
+      "Jenkins",
+      "Bash",
+      "Linux",
+      "Grafana",
+      "Azure"
+    ],
+    "education": "B.Tech in Information Technology, University of Michigan, 2015"
+  },
+  {
+    "candidate_name": "James Patel",
+    "file": "james_patel_30.txt",
+    "role_category": "Product Manager",
+    "years_experience": 1,
+    "skills": [
+      "Product Strategy",
+      "Roadmapping",
+      "Agile",
+      "Stakeholder Management",
+      "Data Analysis",
+      "SQL",
+      "Figma",
+      "A/B Testing",
+      "Jira",
+      "User Research",
+      "Pricing Strategy"
+    ],
+    "education": "M.S. in Data Science, University of Waterloo, 2025"
+  },
+  {
+    "candidate_name": "Maria Johnson",
+    "file": "maria_johnson_31.txt",
+    "role_category": "Product Manager",
+    "years_experience": 2,
+    "skills": [
+      "Product Strategy",
+      "Roadmapping",
+      "Agile",
+      "Stakeholder Management",
+      "Data Analysis",
+      "Pricing Strategy",
+      "Go-to-Market",
+      "Jira",
+      "A/B Testing"
+    ],
+    "education": "B.A. in Statistics, National University of Singapore, 2023"
+  },
+  {
+    "candidate_name": "David Muller",
+    "file": "david_muller_32.txt",
+    "role_category": "Product Manager",
+    "years_experience": 4,
+    "skills": [
+      "Product Strategy",
+      "Roadmapping",
+      "Agile",
+      "Stakeholder Management",
+      "Data Analysis",
+      "Figma",
+      "User Research",
+      "A/B Testing",
+      "Jira",
+      "Go-to-Market"
+    ],
+    "education": "B.Tech in Computer Science, Delhi Technological University, 2021"
+  },
+  {
+    "candidate_name": "Priya Connor",
+    "file": "priya_connor_33.txt",
+    "role_category": "Product Manager",
+    "years_experience": 6,
+    "skills": [
+      "Product Strategy",
+      "Roadmapping",
+      "Agile",
+      "Stakeholder Management",
+      "Data Analysis",
+      "Figma",
+      "Competitive Analysis",
+      "A/B Testing",
+      "Pricing Strategy"
+    ],
+    "education": "B.S. in Electrical Engineering, Delhi Technological University, 2020"
+  },
+  {
+    "candidate_name": "Wei Garcia",
+    "file": "wei_garcia_34.txt",
+    "role_category": "Product Manager",
+    "years_experience": 8,
+    "skills": [
+      "Product Strategy",
+      "Roadmapping",
+      "Agile",
+      "Stakeholder Management",
+      "Data Analysis",
+      "Figma",
+      "Pricing Strategy",
+      "Competitive Analysis",
+      "Go-to-Market",
+      "Jira"
+    ],
+    "education": "B.A. in Statistics, Purdue University, 2017"
+  },
+  {
+    "candidate_name": "Fatima Rodriguez",
+    "file": "fatima_rodriguez_35.txt",
+    "role_category": "Product Manager",
+    "years_experience": 10,
+    "skills": [
+      "Product Strategy",
+      "Roadmapping",
+      "Agile",
+      "Stakeholder Management",
+      "Data Analysis",
+      "SQL",
+      "Pricing Strategy",
+      "Jira",
+      "A/B Testing",
+      "Go-to-Market"
+    ],
+    "education": "B.S. in Electrical Engineering, MIT, 2015"
+  }
+]

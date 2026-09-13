@@ -1,0 +1,30 @@
+Marco Hassan
+UI Engineer | New York, NY
+Email: marco.hassan23@email.com | Phone: +1-792-226-6111
+
+SUMMARY
+UI Engineer with 10 years of experience specializing in JavaScript, React, HTML. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+JavaScript, React, HTML, CSS, TypeScript, Accessibility, Tailwind CSS, Next.js, Vue.js, Jest, GraphQL
+
+EXPERIENCE
+UI Engineer, Globex Systems (2023-2026)
+- Built and maintained systems using TypeScript, Jest, React, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 35%.
+- Mentored 1 junior engineers and led code reviews to improve overall code quality.
+
+Senior Frontend Developer, Stark Industries Software (2020-2023)
+- Built and maintained systems using Tailwind CSS, Accessibility, React, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 26%.
+- Mentored 1 junior engineers and led code reviews to improve overall code quality.
+
+UI Engineer, Tyrell Systems (2016-2020)
+- Built and maintained systems using Next.js, React, Tailwind CSS, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 40%.
+
+EDUCATION
+B.Tech in Information Technology, Purdue University, 2016
+
+CERTIFICATIONS
+None listed

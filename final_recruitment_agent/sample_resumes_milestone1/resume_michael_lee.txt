@@ -1,0 +1,18 @@
+Michael Lee
+Frontend Developer
+Email: michael.lee@example.com | Phone: (555) 222-3344
+
+SUMMARY
+Frontend developer with 5 years of experience in React and TypeScript.
+Limited backend exposure, mostly Node.js.
+
+SKILLS
+JavaScript, TypeScript, React, Redux, CSS, Node.js, Webpack
+
+EXPERIENCE
+Frontend Developer, PixelWorks (2019-Present)
+- Built component libraries used across 10+ internal apps
+- Improved page load speed by 40%
+
+EDUCATION
+B.A. Design & Computer Science, Riverside College, 2019

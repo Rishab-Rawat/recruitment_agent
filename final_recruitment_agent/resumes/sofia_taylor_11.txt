@@ -1,0 +1,30 @@
+Sofia Taylor
+Applied Scientist | Toronto, Canada
+Email: sofia.taylor11@email.com | Phone: +1-444-471-7484
+
+SUMMARY
+Applied Scientist with 10 years of experience specializing in Python, Machine Learning, PyTorch. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Python, Machine Learning, PyTorch, Scikit-learn, Pandas, A/B Testing, Spark, AWS SageMaker, LangChain
+
+EXPERIENCE
+Applied Scientist, Stark Industries Software (2023-2026)
+- Built and maintained systems using Machine Learning, Python, Scikit-learn, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 29%.
+- Mentored 1 junior engineers and led code reviews to improve overall code quality.
+
+Applied Scientist, Globex Systems (2020-2023)
+- Built and maintained systems using Scikit-learn, Pandas, Machine Learning, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 39%.
+
+Machine Learning Engineer, Globex Systems (2016-2020)
+- Built and maintained systems using A/B Testing, Pandas, Machine Learning, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 24%.
+- Mentored 3 junior engineers and led code reviews to improve overall code quality.
+
+EDUCATION
+B.S. in Computer Science, MIT, 2015
+
+CERTIFICATIONS
+AWS Certified Solutions Architect

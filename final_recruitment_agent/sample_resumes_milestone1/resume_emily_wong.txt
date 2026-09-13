@@ -1,0 +1,20 @@
+Emily Wong
+Product Manager
+Email: emily.wong@example.com | Phone: (555) 333-2211
+
+SUMMARY
+Product manager with 6 years of experience in B2B SaaS products.
+Non-technical background, no programming experience.
+
+SKILLS
+Product Strategy, Roadmapping, Agile, Jira, Stakeholder Management
+
+EXPERIENCE
+Senior Product Manager, SaaSly (2020-Present)
+- Owned roadmap for a product used by 500+ enterprise customers
+
+Product Manager, StartupHub (2017-2020)
+- Launched 3 major product features
+
+EDUCATION
+MBA, Business School, 2017

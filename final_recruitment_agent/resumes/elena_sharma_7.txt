@@ -1,0 +1,21 @@
+Elena Sharma
+Machine Learning Engineer | Remote
+Email: elena.sharma7@email.com | Phone: +1-767-435-4608
+
+SUMMARY
+Machine Learning Engineer with 2 years of experience specializing in Python, Machine Learning, PyTorch. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Python, Machine Learning, PyTorch, Scikit-learn, Pandas, NLP, A/B Testing, TensorFlow
+
+EXPERIENCE
+Machine Learning Engineer, Umbrella Analytics (2024-2026)
+- Built and maintained systems using Machine Learning, Python, PyTorch, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 12%.
+- Mentored 3 junior engineers and led code reviews to improve overall code quality.
+
+EDUCATION
+B.Tech in Information Technology, University of Toronto, 2024
+
+CERTIFICATIONS
+TensorFlow Developer Certificate

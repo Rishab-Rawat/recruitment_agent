@@ -1,0 +1,31 @@
+Meera Ivanova
+DevOps Engineer | Remote
+Email: meera.ivanova28@email.com | Phone: +1-844-902-1878
+
+SUMMARY
+DevOps Engineer with 8 years of experience specializing in AWS, Docker, Kubernetes. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+AWS, Docker, Kubernetes, Terraform, CI/CD, Linux, Prometheus, Ansible, GCP
+
+EXPERIENCE
+DevOps Engineer, Globex Systems (2024-2026)
+- Built and maintained systems using GCP, Prometheus, CI/CD, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 29%.
+- Mentored 2 junior engineers and led code reviews to improve overall code quality.
+
+Cloud Infrastructure Engineer, Aperture Labs (2021-2024)
+- Built and maintained systems using Prometheus, Ansible, Terraform, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 19%.
+- Mentored 4 junior engineers and led code reviews to improve overall code quality.
+
+Cloud Infrastructure Engineer, Hooli (2018-2021)
+- Built and maintained systems using AWS, Docker, Prometheus, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 16%.
+- Mentored 3 junior engineers and led code reviews to improve overall code quality.
+
+EDUCATION
+M.S. in Computer Science, Indian Institute of Technology Delhi, 2018
+
+CERTIFICATIONS
+None listed

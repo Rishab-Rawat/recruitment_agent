@@ -1,0 +1,20 @@
+Maria Johnson
+Senior Backend Developer | London, UK
+Email: maria.johnson1@email.com | Phone: +1-425-659-5557
+
+SUMMARY
+Senior Backend Developer with 2 years of experience specializing in Python, Django, PostgreSQL. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, Docker, Redis, CI/CD, Microservices
+
+EXPERIENCE
+Senior Backend Developer, Hooli (2024-2026)
+- Built and maintained systems using PostgreSQL, Django, Microservices, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 13%.
+
+EDUCATION
+M.S. in Computer Science, UC Berkeley, 2023
+
+CERTIFICATIONS
+AWS Certified Solutions Architect

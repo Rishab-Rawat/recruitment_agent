@@ -1,0 +1,11 @@
+flowchart LR
+    S([START]) --> P[Parse JD]
+    P --> E[Extract Requirements]
+    E --> R[Search Resumes<br/>Milestone 2 RAG]
+    R --> K[Rank Candidates]
+    K --> G[Generate Report]
+    G --> H[Human Feedback Loop]
+    H --> X([END])
+    H -. next turn / refinement .-> P
+    F[Milestone 1<br/>read/list/write/search] -.-> R
+    T[extract_requirements<br/>compare_candidates<br/>generate_interview_questions] -.-> K

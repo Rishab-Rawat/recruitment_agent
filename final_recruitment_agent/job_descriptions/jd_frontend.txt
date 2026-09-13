@@ -1,0 +1,1 @@
+Join our product team as a Frontend Engineer. You'll build responsive, accessible web interfaces using React and TypeScript. Requirements: 3+ years of experience with JavaScript/TypeScript and React, strong CSS skills, and familiarity with state management (Redux) and testing (Jest). Experience with Next.js and design tools like Figma is a plus.

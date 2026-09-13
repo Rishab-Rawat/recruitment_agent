@@ -1,0 +1,29 @@
+Grace Brown
+Data Analyst | Seattle, WA
+Email: grace.brown15@email.com | Phone: +1-473-363-2771
+
+SUMMARY
+Data Analyst with 6 years of experience specializing in Python, SQL, Statistics. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Python, SQL, Statistics, Pandas, Data Visualization, R, Excel, Machine Learning, Tableau, Experiment Design, A/B Testing
+
+EXPERIENCE
+Data Analyst, Hooli (2024-2026)
+- Built and maintained systems using Pandas, A/B Testing, Python, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 31%.
+
+Senior Data Scientist, Stark Industries Software (2022-2024)
+- Built and maintained systems using SQL, Data Visualization, R, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 30%.
+- Mentored 3 junior engineers and led code reviews to improve overall code quality.
+
+Data Scientist, Acme Corp (2020-2022)
+- Built and maintained systems using Data Visualization, Statistics, A/B Testing, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 11%.
+
+EDUCATION
+M.S. in Artificial Intelligence, UC Berkeley, 2019
+
+CERTIFICATIONS
+None listed

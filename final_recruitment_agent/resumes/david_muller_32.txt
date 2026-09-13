@@ -1,0 +1,24 @@
+David Muller
+Senior Product Manager | Boston, MA
+Email: david.muller32@email.com | Phone: +1-237-665-2442
+
+SUMMARY
+Senior Product Manager with 4 years of experience specializing in Product Strategy, Roadmapping, Agile. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Product Strategy, Roadmapping, Agile, Stakeholder Management, Data Analysis, Figma, User Research, A/B Testing, Jira, Go-to-Market
+
+EXPERIENCE
+Senior Product Manager, Cyberdyne Cloud (2024-2026)
+- Built and maintained systems using Jira, A/B Testing, User Research, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 11%.
+
+Associate Product Manager, Stark Industries Software (2022-2024)
+- Built and maintained systems using A/B Testing, Go-to-Market, Product Strategy, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 16%.
+
+EDUCATION
+B.Tech in Computer Science, Delhi Technological University, 2021
+
+CERTIFICATIONS
+None listed

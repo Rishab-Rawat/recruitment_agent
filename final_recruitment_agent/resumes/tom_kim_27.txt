@@ -1,0 +1,31 @@
+Tom Kim
+Cloud Infrastructure Engineer | Boston, MA
+Email: tom.kim27@email.com | Phone: +1-811-489-2647
+
+SUMMARY
+Cloud Infrastructure Engineer with 6 years of experience specializing in AWS, Docker, Kubernetes. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+AWS, Docker, Kubernetes, Terraform, CI/CD, Prometheus, Bash, Grafana, Ansible
+
+EXPERIENCE
+Cloud Infrastructure Engineer, Hooli (2024-2026)
+- Built and maintained systems using AWS, Kubernetes, Grafana, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 11%.
+- Mentored 3 junior engineers and led code reviews to improve overall code quality.
+
+DevOps Engineer, Soylent Tech (2022-2024)
+- Built and maintained systems using Grafana, Docker, Bash, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 10%.
+- Mentored 4 junior engineers and led code reviews to improve overall code quality.
+
+Site Reliability Engineer, Wonka Data (2020-2022)
+- Built and maintained systems using Prometheus, Kubernetes, AWS, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 18%.
+- Mentored 4 junior engineers and led code reviews to improve overall code quality.
+
+EDUCATION
+M.S. in Computer Science, Cornell University, 2020
+
+CERTIFICATIONS
+None listed

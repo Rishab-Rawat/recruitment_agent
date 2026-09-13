@@ -1,0 +1,24 @@
+# Assignment orchestration
+langgraph>=0.2.0
+
+# Milestone 1 filesystem/document tools
+PyPDF2>=3.0.0
+python-docx>=1.1.0
+
+# Milestone 2 RAG / hybrid retrieval
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+rank-bm25>=0.2.2
+scikit-learn>=1.4.0
+numpy>=1.26.0
+joblib>=1.3.0
+pandas>=2.0.0
+matplotlib>=3.8.0
+
+# Optional hosted embeddings / LLMs
+openai>=1.50.0
+anthropic>=0.40.0
+cohere>=5.0.0
+
+# Optional UI
+streamlit>=1.35.0

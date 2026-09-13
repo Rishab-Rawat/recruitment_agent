@@ -1,0 +1,29 @@
+Wei Garcia
+Senior Product Manager | Toronto, Canada
+Email: wei.garcia34@email.com | Phone: +1-719-473-1042
+
+SUMMARY
+Senior Product Manager with 8 years of experience specializing in Product Strategy, Roadmapping, Agile. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Product Strategy, Roadmapping, Agile, Stakeholder Management, Data Analysis, Figma, Pricing Strategy, Competitive Analysis, Go-to-Market, Jira
+
+EXPERIENCE
+Senior Product Manager, Tyrell Systems (2024-2026)
+- Built and maintained systems using Agile, Competitive Analysis, Go-to-Market, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 21%.
+
+Associate Product Manager, Aperture Labs (2021-2024)
+- Built and maintained systems using Pricing Strategy, Competitive Analysis, Figma, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 37%.
+
+Product Manager, Soylent Tech (2018-2021)
+- Built and maintained systems using Jira, Pricing Strategy, Stakeholder Management, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 37%.
+- Mentored 1 junior engineers and led code reviews to improve overall code quality.
+
+EDUCATION
+B.A. in Statistics, Purdue University, 2017
+
+CERTIFICATIONS
+Google Data Analytics Certificate

@@ -1,0 +1,29 @@
+Chen Smith
+UI Engineer | Bangalore, India
+Email: chen.smith21@email.com | Phone: +1-971-599-7865
+
+SUMMARY
+UI Engineer with 6 years of experience specializing in JavaScript, React, HTML. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+JavaScript, React, HTML, CSS, TypeScript, GraphQL, Tailwind CSS, Vue.js, Figma
+
+EXPERIENCE
+UI Engineer, Wonka Data (2024-2026)
+- Built and maintained systems using JavaScript, Tailwind CSS, HTML, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 31%.
+- Mentored 4 junior engineers and led code reviews to improve overall code quality.
+
+Frontend Engineer, Soylent Tech (2022-2024)
+- Built and maintained systems using Vue.js, HTML, TypeScript, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 27%.
+
+Senior Frontend Developer, Wayne Digital (2020-2022)
+- Built and maintained systems using JavaScript, React, GraphQL, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 23%.
+
+EDUCATION
+B.Tech in Information Technology, Indian Institute of Technology Delhi, 2020
+
+CERTIFICATIONS
+None listed

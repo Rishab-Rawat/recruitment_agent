@@ -1,0 +1,21 @@
+Ivan Iyer
+Site Reliability Engineer | Seattle, WA
+Email: ivan.iyer25@email.com | Phone: +1-563-464-6576
+
+SUMMARY
+Site Reliability Engineer with 2 years of experience specializing in AWS, Docker, Kubernetes. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+AWS, Docker, Kubernetes, Terraform, CI/CD, Python, Prometheus, Jenkins, Helm, Ansible
+
+EXPERIENCE
+Site Reliability Engineer, Globex Systems (2024-2026)
+- Built and maintained systems using Terraform, Prometheus, Jenkins, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 27%.
+- Mentored 4 junior engineers and led code reviews to improve overall code quality.
+
+EDUCATION
+B.Tech in Information Technology, University of Texas at Austin, 2024
+
+CERTIFICATIONS
+None listed

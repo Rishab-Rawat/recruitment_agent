@@ -1,0 +1,21 @@
+Kevin Ahmed
+Senior Frontend Developer | Remote
+Email: kevin.ahmed18@email.com | Phone: +1-399-935-7291
+
+SUMMARY
+Senior Frontend Developer with 1 years of experience specializing in JavaScript, React, HTML. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+JavaScript, React, HTML, CSS, TypeScript, Accessibility, Tailwind CSS, Webpack, Jest, Node.js, Redux
+
+EXPERIENCE
+Senior Frontend Developer, Bluth Company Tech (2025-2026)
+- Built and maintained systems using React, Tailwind CSS, CSS, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 15%.
+- Mentored 4 junior engineers and led code reviews to improve overall code quality.
+
+EDUCATION
+B.S. in Computer Science, Carnegie Mellon University, 2025
+
+CERTIFICATIONS
+AWS Certified Solutions Architect

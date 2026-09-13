@@ -1,0 +1,20 @@
+Yuki Wang
+Data Scientist | Toronto, Canada
+Email: yuki.wang13@email.com | Phone: +1-989-333-5291
+
+SUMMARY
+Data Scientist with 2 years of experience specializing in Python, SQL, Statistics. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Python, SQL, Statistics, Pandas, Data Visualization, Excel, Experiment Design, Power BI, scikit-learn
+
+EXPERIENCE
+Data Scientist, Acme Corp (2024-2026)
+- Built and maintained systems using SQL, scikit-learn, Excel, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 38%.
+
+EDUCATION
+B.S. in Computer Science, Cornell University, 2023
+
+CERTIFICATIONS
+Certified Kubernetes Administrator

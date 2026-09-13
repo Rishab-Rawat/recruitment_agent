@@ -1,0 +1,30 @@
+Michael Tanaka
+ML Engineer | Seattle, WA
+Email: michael.tanaka10@email.com | Phone: +1-259-793-9883
+
+SUMMARY
+ML Engineer with 8 years of experience specializing in Python, Machine Learning, PyTorch. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Python, Machine Learning, PyTorch, Scikit-learn, Pandas, Spark, Deep Learning, TensorFlow
+
+EXPERIENCE
+ML Engineer, Acme Corp (2024-2026)
+- Built and maintained systems using TensorFlow, Pandas, Deep Learning, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 15%.
+
+Machine Learning Engineer, Pied Piper (2021-2024)
+- Built and maintained systems using PyTorch, Python, Pandas, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 12%.
+- Mentored 2 junior engineers and led code reviews to improve overall code quality.
+
+Machine Learning Engineer, Wayne Digital (2018-2021)
+- Built and maintained systems using Scikit-learn, Pandas, Deep Learning, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 11%.
+- Mentored 4 junior engineers and led code reviews to improve overall code quality.
+
+EDUCATION
+B.A. in Statistics, Delhi Technological University, 2017
+
+CERTIFICATIONS
+None listed

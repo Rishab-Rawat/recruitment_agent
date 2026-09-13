@@ -1,0 +1,30 @@
+Jake Hussain
+DevOps Engineer | Austin, TX
+Email: jake.hussain29@email.com | Phone: +1-202-618-8381
+
+SUMMARY
+DevOps Engineer with 10 years of experience specializing in AWS, Docker, Kubernetes. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+AWS, Docker, Kubernetes, Terraform, CI/CD, Prometheus, Jenkins, Bash, Linux, Grafana, Azure
+
+EXPERIENCE
+DevOps Engineer, Soylent Tech (2023-2026)
+- Built and maintained systems using Bash, Docker, Terraform, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 39%.
+
+Cloud Infrastructure Engineer, Aperture Labs (2020-2023)
+- Built and maintained systems using Grafana, Terraform, Jenkins, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 13%.
+- Mentored 2 junior engineers and led code reviews to improve overall code quality.
+
+Site Reliability Engineer, Bluth Company Tech (2016-2020)
+- Built and maintained systems using Kubernetes, Docker, AWS, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 15%.
+- Mentored 3 junior engineers and led code reviews to improve overall code quality.
+
+EDUCATION
+B.Tech in Information Technology, University of Michigan, 2015
+
+CERTIFICATIONS
+Scrum Master Certified (CSM)

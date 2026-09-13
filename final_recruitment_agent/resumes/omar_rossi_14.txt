@@ -1,0 +1,25 @@
+Omar Rossi
+Senior Data Scientist | Austin, TX
+Email: omar.rossi14@email.com | Phone: +1-242-515-6974
+
+SUMMARY
+Senior Data Scientist with 4 years of experience specializing in Python, SQL, Statistics. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Python, SQL, Statistics, Pandas, Data Visualization, Hypothesis Testing, Machine Learning, Experiment Design
+
+EXPERIENCE
+Senior Data Scientist, Cyberdyne Cloud (2024-2026)
+- Built and maintained systems using SQL, Statistics, Data Visualization, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 38%.
+- Mentored 2 junior engineers and led code reviews to improve overall code quality.
+
+Data Scientist, Bluth Company Tech (2022-2024)
+- Built and maintained systems using Statistics, Machine Learning, SQL, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 38%.
+
+EDUCATION
+B.Tech in Computer Science, Purdue University, 2021
+
+CERTIFICATIONS
+Google Data Analytics Certificate

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "jd_backend_senior",
+    "title": "Senior Backend Engineer",
+    "target_role": "Software Engineer (Backend)",
+    "text": "We are hiring a Senior Backend Engineer to design and scale our core platform services. Requirements: 5+ years of experience with Python and Django, strong knowledge of PostgreSQL and REST API design, hands-on experience with Docker and containerized deployments. Experience with Kubernetes, AWS, and Kafka is a strong plus. You will own backend architecture decisions and mentor junior engineers.",
+    "must_have": {
+      "skills": [
+        "Python",
+        "Django"
+      ],
+      "min_years": 5
+    }
+  },
+  {
+    "id": "jd_ml_engineer",
+    "title": "Machine Learning Engineer",
+    "target_role": "Machine Learning Engineer",
+    "text": "Seeking a Machine Learning Engineer to build and deploy ML models at scale. Must have 4+ years of experience with Python and PyTorch, solid foundations in machine learning and deep learning, and experience with MLOps practices for productionizing models. Experience with NLP, Transformers, or vector databases is highly desirable. You'll work closely with product and data teams to ship ML-powered features.",
+    "must_have": {
+      "skills": [
+        "Python",
+        "Machine Learning"
+      ],
+      "min_years": 4
+    }
+  },
+  {
+    "id": "jd_data_scientist",
+    "title": "Data Scientist",
+    "text": "We're looking for a Data Scientist to drive data-informed decisions across the company. Requirements: 2+ years experience with SQL and Python, strong statistics background, experience running and analyzing A/B tests, and comfort presenting insights via dashboards (Tableau or Power BI). Experience with machine learning is a bonus.",
+    "target_role": "Data Scientist",
+    "must_have": {
+      "skills": [
+        "SQL",
+        "Statistics"
+      ],
+      "min_years": 2
+    }
+  },
+  {
+    "id": "jd_frontend",
+    "title": "Frontend Engineer (React)",
+    "target_role": "Frontend Engineer",
+    "text": "Join our product team as a Frontend Engineer. You'll build responsive, accessible web interfaces using React and TypeScript. Requirements: 3+ years of experience with JavaScript/TypeScript and React, strong CSS skills, and familiarity with state management (Redux) and testing (Jest). Experience with Next.js and design tools like Figma is a plus.",
+    "must_have": {
+      "skills": [
+        "React",
+        "JavaScript"
+      ],
+      "min_years": 3
+    }
+  },
+  {
+    "id": "jd_devops",
+    "title": "DevOps / Site Reliability Engineer",
+    "target_role": "DevOps / Cloud Engineer",
+    "text": "We need a DevOps Engineer to own our cloud infrastructure and CI/CD pipelines. Requirements: 4+ years of experience with AWS, strong background in Docker and Kubernetes, infrastructure-as-code experience with Terraform, and experience building CI/CD pipelines. Experience with monitoring tools like Prometheus and Grafana preferred.",
+    "must_have": {
+      "skills": [
+        "AWS",
+        "Kubernetes"
+      ],
+      "min_years": 4
+    }
+  },
+  {
+    "id": "jd_pm",
+    "title": "Senior Product Manager",
+    "target_role": "Product Manager",
+    "text": "Looking for a Senior Product Manager to own our core product roadmap. Requirements: 6+ years of product management experience, strong track record of shipping products end-to-end, experience with agile methodologies, data analysis skills, and excellent stakeholder management. Experience running A/B tests and working with engineering/design teams closely is essential.",
+    "must_have": {
+      "skills": [
+        "Product Strategy",
+        "Agile"
+      ],
+      "min_years": 6
+    }
+  }
+]

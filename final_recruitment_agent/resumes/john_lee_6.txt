@@ -1,0 +1,21 @@
+John Lee
+Machine Learning Engineer | Austin, TX
+Email: john.lee6@email.com | Phone: +1-875-686-3705
+
+SUMMARY
+Machine Learning Engineer with 1 years of experience specializing in Python, Machine Learning, PyTorch. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Python, Machine Learning, PyTorch, Scikit-learn, Pandas, Vector Databases, Feature Engineering, Transformers, MLOps, Spark
+
+EXPERIENCE
+Machine Learning Engineer, Soylent Tech (2025-2026)
+- Built and maintained systems using Pandas, Feature Engineering, Vector Databases, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 24%.
+- Mentored 4 junior engineers and led code reviews to improve overall code quality.
+
+EDUCATION
+M.S. in Computer Science, University of Toronto, 2025
+
+CERTIFICATIONS
+None listed

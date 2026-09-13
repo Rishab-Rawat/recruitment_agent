@@ -1,0 +1,24 @@
+Carlos Park
+Applied Scientist | Chicago, IL
+Email: carlos.park8@email.com | Phone: +1-448-684-7669
+
+SUMMARY
+Applied Scientist with 4 years of experience specializing in Python, Machine Learning, PyTorch. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Python, Machine Learning, PyTorch, Scikit-learn, Pandas, NLP, Spark, Transformers, Deep Learning
+
+EXPERIENCE
+Applied Scientist, Wayne Digital (2024-2026)
+- Built and maintained systems using Spark, Transformers, Deep Learning, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 33%.
+
+Applied Scientist, Cyberdyne Cloud (2022-2024)
+- Built and maintained systems using Machine Learning, Python, Scikit-learn, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 33%.
+
+EDUCATION
+M.S. in Computer Science, University of Toronto, 2022
+
+CERTIFICATIONS
+None listed

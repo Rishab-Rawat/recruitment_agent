@@ -1,0 +1,30 @@
+Anjali Petrova
+UI Engineer | Seattle, WA
+Email: anjali.petrova22@email.com | Phone: +1-665-534-6529
+
+SUMMARY
+UI Engineer with 8 years of experience specializing in JavaScript, React, HTML. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+JavaScript, React, HTML, CSS, TypeScript, Vue.js, Accessibility, Node.js, Figma, Redux, Tailwind CSS
+
+EXPERIENCE
+UI Engineer, Acme Corp (2024-2026)
+- Built and maintained systems using Figma, JavaScript, Vue.js, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 17%.
+- Mentored 1 junior engineers and led code reviews to improve overall code quality.
+
+Frontend Engineer, Aperture Labs (2021-2024)
+- Built and maintained systems using CSS, Tailwind CSS, JavaScript, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 29%.
+
+UI Engineer, Initech (2018-2021)
+- Built and maintained systems using Tailwind CSS, React, CSS, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 24%.
+- Mentored 3 junior engineers and led code reviews to improve overall code quality.
+
+EDUCATION
+B.Tech in Computer Science, University of Waterloo, 2018
+
+CERTIFICATIONS
+Certified Kubernetes Administrator

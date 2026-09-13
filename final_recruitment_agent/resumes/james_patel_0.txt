@@ -1,0 +1,20 @@
+James Patel
+Senior Backend Developer | New York, NY
+Email: james.patel0@email.com | Phone: +1-225-959-5506
+
+SUMMARY
+Senior Backend Developer with 1 years of experience specializing in Python, Django, PostgreSQL. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, Docker, Kafka, Redis, AWS, Java
+
+EXPERIENCE
+Senior Backend Developer, Globex Systems (2025-2026)
+- Built and maintained systems using Redis, Python, AWS, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 12%.
+
+EDUCATION
+B.S. in Computer Science, Carnegie Mellon University, 2025
+
+CERTIFICATIONS
+Scrum Master Certified (CSM)

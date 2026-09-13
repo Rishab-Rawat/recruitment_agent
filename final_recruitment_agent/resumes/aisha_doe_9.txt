@@ -1,0 +1,30 @@
+Aisha Doe
+ML Engineer | Austin, TX
+Email: aisha.doe9@email.com | Phone: +1-632-387-5563
+
+SUMMARY
+ML Engineer with 6 years of experience specializing in Python, Machine Learning, PyTorch. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Python, Machine Learning, PyTorch, Scikit-learn, Pandas, MLOps, NLP, LangChain, Vector Databases, A/B Testing, TensorFlow
+
+EXPERIENCE
+ML Engineer, Cyberdyne Cloud (2024-2026)
+- Built and maintained systems using Vector Databases, Python, Machine Learning, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 39%.
+- Mentored 2 junior engineers and led code reviews to improve overall code quality.
+
+ML Engineer, Initech (2022-2024)
+- Built and maintained systems using LangChain, TensorFlow, Scikit-learn, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 37%.
+
+Machine Learning Engineer, Acme Corp (2020-2022)
+- Built and maintained systems using NLP, Python, TensorFlow, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 18%.
+- Mentored 4 junior engineers and led code reviews to improve overall code quality.
+
+EDUCATION
+M.S. in Data Science, National University of Singapore, 2019
+
+CERTIFICATIONS
+None listed

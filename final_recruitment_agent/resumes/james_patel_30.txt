@@ -1,0 +1,21 @@
+James Patel
+Senior Product Manager | Bangalore, India
+Email: james.patel30@email.com | Phone: +1-712-752-9090
+
+SUMMARY
+Senior Product Manager with 1 years of experience specializing in Product Strategy, Roadmapping, Agile. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Product Strategy, Roadmapping, Agile, Stakeholder Management, Data Analysis, SQL, Figma, A/B Testing, Jira, User Research, Pricing Strategy
+
+EXPERIENCE
+Senior Product Manager, Hooli (2025-2026)
+- Built and maintained systems using Product Strategy, Roadmapping, Stakeholder Management, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 40%.
+- Mentored 1 junior engineers and led code reviews to improve overall code quality.
+
+EDUCATION
+M.S. in Data Science, University of Waterloo, 2025
+
+CERTIFICATIONS
+Certified Kubernetes Administrator

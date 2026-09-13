@@ -1,0 +1,30 @@
+Laura Chen
+Senior Data Scientist | Boston, MA
+Email: laura.chen17@email.com | Phone: +1-200-511-5700
+
+SUMMARY
+Senior Data Scientist with 10 years of experience specializing in Python, SQL, Statistics. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+Python, SQL, Statistics, Pandas, Data Visualization, Power BI, Hypothesis Testing, Excel, Machine Learning
+
+EXPERIENCE
+Senior Data Scientist, Wonka Data (2023-2026)
+- Built and maintained systems using Pandas, Excel, Hypothesis Testing, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 38%.
+- Mentored 2 junior engineers and led code reviews to improve overall code quality.
+
+Data Scientist, Cyberdyne Cloud (2020-2023)
+- Built and maintained systems using Data Visualization, Power BI, Python, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 36%.
+- Mentored 2 junior engineers and led code reviews to improve overall code quality.
+
+Senior Data Scientist, Cyberdyne Cloud (2016-2020)
+- Built and maintained systems using Pandas, Machine Learning, SQL, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 10%.
+
+EDUCATION
+B.Tech in Information Technology, University of Waterloo, 2016
+
+CERTIFICATIONS
+None listed

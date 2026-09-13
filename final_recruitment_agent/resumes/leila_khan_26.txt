@@ -1,0 +1,25 @@
+Leila Khan
+DevOps Engineer | London, UK
+Email: leila.khan26@email.com | Phone: +1-908-449-6016
+
+SUMMARY
+DevOps Engineer with 4 years of experience specializing in AWS, Docker, Kubernetes. Proven track record of delivering high-impact projects in fast-paced environments.
+
+SKILLS
+AWS, Docker, Kubernetes, Terraform, CI/CD, GCP, Helm, Grafana, Bash, Python
+
+EXPERIENCE
+DevOps Engineer, Pied Piper (2024-2026)
+- Built and maintained systems using GCP, Python, Grafana, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 18%.
+
+DevOps Engineer, Umbrella Analytics (2022-2024)
+- Built and maintained systems using Terraform, GCP, Docker, improving performance and reliability for production workloads.
+- Collaborated with cross-functional teams to ship features, reducing key metrics turnaround time by 33%.
+- Mentored 2 junior engineers and led code reviews to improve overall code quality.
+
+EDUCATION
+B.S. in Electrical Engineering, University of Toronto, 2021
+
+CERTIFICATIONS
+None listed

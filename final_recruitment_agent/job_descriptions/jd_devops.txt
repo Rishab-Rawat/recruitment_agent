@@ -1,0 +1,1 @@
+We need a DevOps Engineer to own our cloud infrastructure and CI/CD pipelines. Requirements: 4+ years of experience with AWS, strong background in Docker and Kubernetes, infrastructure-as-code experience with Terraform, and experience building CI/CD pipelines. Experience with monitoring tools like Prometheus and Grafana preferred.
